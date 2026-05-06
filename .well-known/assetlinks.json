@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.vertexstudios.wordigo",
+      "sha256_cert_fingerprints": [
+        "BB:D4:9F:13:B7:94:AB:F5:B9:30:1F:6E:87:6F:B8:30:48:31:C4:A4:3B:D0:D1:54:12:1B:7A:DE:01:07:DF:8E"
+      ]
+    }
+  }
+]
